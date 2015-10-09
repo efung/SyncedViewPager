@@ -4,5 +4,5 @@ same layout. This might be useful if you have fixed elements in between the two 
 and you want to position the ViewPagers relative to those elements.
 
 # Recording
-![Animation][https://raw.github.com/efung/SyncedViewPager/master/demo/demo.gif]
+![Animation](https://raw.github.com/efung/SyncedViewPager/master/demo/demo.gif)
 
